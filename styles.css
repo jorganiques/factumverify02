@@ -1,5 +1,5 @@
 body {
-    font-family: 'BBC Reith Serif', Arial, sans-serif;
+    font-family: 'Georgia', 'Times New Roman', serif; /* A professional, news-like font */
     margin: 0;
     padding: 0;
     display: flex;
